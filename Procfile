@@ -1,0 +1,1 @@
+web: gunicorn astuportal.wsgi --log-file -
